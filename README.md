@@ -1,4 +1,5 @@
-# 👋 Hi there  <img align="right" width="200" src="https://media.giphy.com/media/ccaxjiC5xB27yewpLo/giphy.gif">
+# 👋 Hi there  
+<!-- <img align="right" width="200" src="https://media.giphy.com/media/ccaxjiC5xB27yewpLo/giphy.gif"> -->
 
 0xMazout Senior FullStack Engineer with love of Blockchain.
 
