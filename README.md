@@ -1,10 +1,10 @@
 # 👋 Hi there  <img align="right" width="200" src="https://media.giphy.com/media/ccaxjiC5xB27yewpLo/giphy.gif">
 
-0xMazout Senior French Web3 Developper
+0xMazout Senior FullStack Engineer with love of Blockchain.
 
 React, Next, Typescript , Solidity, Foundry, Ethers.js,
 
-After 7 years in Services company as Fullstack Engineer in C# / .NET env'. 
+7 years in Services company as Fullstack Engineer in C# / .NET env'. 
 
 I've rotated to Frontend with React / TypeScript / NextJs. in 2018
 
