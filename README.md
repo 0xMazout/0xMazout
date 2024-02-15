@@ -7,7 +7,7 @@ React, Next, Typescript , Solidity, Foundry, Ethers.js,
 
 10 Years in Software Industry.
 
-**I've rotated to Frontend with React / TypeScript / NextJs in 2018. 
+**I've pivoted to Frontend with React / TypeScript / NextJs in 2018. 
 And jumped into blockchain Rabbit Hole at the same time**
 
 Member of Altier Capital ⭐
