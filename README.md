@@ -5,7 +5,7 @@
 
 React, Next, Typescript , Solidity, Foundry, Ethers.js,
 
-10 Years in Software Industry.
+13 Years in Software Industry.
 
 Member of Altier Capital ⭐
 
